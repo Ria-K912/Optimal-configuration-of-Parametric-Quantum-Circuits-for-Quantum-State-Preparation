@@ -28,8 +28,8 @@
 
 <h2>Technologies Used</h2>
 <ul>
-  <li>Qiskit for quantum circuit simulation</li>
-  <li>SciPy for optimization algorithms</li>
-  <li>Matplotlib for data visualization</li>
+  <li><code>Qiskit</code> for quantum circuit simulation</li>
+  <li><code>SciPy</code> for optimization algorithms</li>
+  <li><code>Matplotlib</code> for data visualization</li>
 </ul>
 
